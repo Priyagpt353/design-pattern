@@ -1,1 +1,1 @@
-console.log("Observer Pattern in JavaScript")
+console.log("Observer Pattern in JavaScript");
